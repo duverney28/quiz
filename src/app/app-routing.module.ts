@@ -5,8 +5,8 @@ import { NuestroclientesComponent } from './components/nuestroclientes/nuestrocl
 
 const routes: Routes = [
 
-  {path:'nuestroclientes',component:NuestroclientesComponent},
-  {path:'menu',component:MenuComponent},
+  { path: 'nuestrosclientes', component: NuestroclientesComponent}
+  
 ];
 
 @NgModule({
